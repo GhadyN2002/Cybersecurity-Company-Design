@@ -1,0 +1,8 @@
+{
+  "name": "Ghady's CyberWorld",
+  "description": "High-end corporate cybersecurity services, penetration testing, and vulnerability assessment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
